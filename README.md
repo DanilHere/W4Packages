@@ -53,7 +53,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 git clone https://github.com/DanilHere/W4Packages.git
 ```
 
-# How To Run
+# How To Use
 
 ## Debian/Ubuntu 
 ```
