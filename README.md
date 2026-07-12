@@ -32,7 +32,7 @@ A simple package manager for Linux with python and menu interfaces
  \/  \/     |_/\_|  \__,_|\___|_|\_\__,_|\__, |\___||___/
                                           __/ |
                                          |___/
-        Simple Package Tool Manager For Arch linux
+        Simple Package Tool Manager For linux
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
