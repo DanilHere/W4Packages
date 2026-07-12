@@ -44,19 +44,33 @@ $                                                                               
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 ```
+## Requirement
+- Linux
+- Python 3
 
 ## How To Install 
 ```
-
+git clone https://github.com/DanilHere/W4Packages.git
 ```
 
+# How To Run
+
 ## Debian/Ubuntu 
-
-
-
-
-
-
+```
+python3 w4apt.py
+```
+## Arch 
+```
+python3 w4pac.py
+```
+## Fedora 
+```
+python3 w4dnf.py
+```
+## Alpine 
+```
+python3  w4alpine.py
+```
 
 
 
