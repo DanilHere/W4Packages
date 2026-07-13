@@ -51,6 +51,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 ## How To Install 
 ```
 git clone https://github.com/DanilHere/W4Packages.git
+cd W4Packages/
 ```
 
 # How To Use
